@@ -33,6 +33,7 @@ HEADERS = {
 }
 
 CHANNELS = {
+    '81': ('nova.insighttv.gr', 'InsightTV'),
     '221': ('nova.myzen.gr', 'MyZen'),
     '584': ('nova.one.gr', 'One'),
     '627': ('nova.eurosport1.gr', 'Eurosport1'),
