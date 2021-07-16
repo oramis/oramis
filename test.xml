@@ -17,62 +17,6 @@
   <channel id="nova.one.gr">
     <display-name lang="el">One</display-name>
   </channel>
-  <programme start="20210715063000 +0200" stop="20210715083000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">ΜΟΤΟΣΥΚΛΕΤΕΣ</title>
-    <desc>Μηχανοκίνητα σπορ</desc>
-  </programme>
-  <programme start="20210715083000 +0200" stop="20210715093000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
-    <desc>Ειδήσεις</desc>
-  </programme>
-  <programme start="20210715093000 +0200" stop="20210715120000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας: Extra</title>
-    <desc>Extra</desc>
-  </programme>
-  <programme start="20210715120000 +0200" stop="20210715130000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">FORMULA E: ΗΠΑ</title>
-    <desc>ΗΠΑ</desc>
-  </programme>
-  <programme start="20210715130000 +0200" stop="20210715143000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας: Extra</title>
-    <desc>Extra</desc>
-  </programme>
-  <programme start="20210715143000 +0200" stop="20210715184500 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας: Extra</title>
-    <desc>Extra</desc>
-  </programme>
-  <programme start="20210715184500 +0200" stop="20210715194500 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
-    <desc>Ειδήσεις</desc>
-  </programme>
-  <programme start="20210715194500 +0200" stop="20210715210000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">ΣΝΟΥΚΕΡ: ΠΑΓΚΟΣΜΙΟ ΠΡΩΤΑΘΛΗΜΑ</title>
-    <desc>Αθλητική εκπομπή</desc>
-  </programme>
-  <programme start="20210715210000 +0200" stop="20210715230000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας: Extra</title>
-    <desc>Extra</desc>
-  </programme>
-  <programme start="20210715230000 +0200" stop="20210716000000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
-    <desc>Ειδήσεις</desc>
-  </programme>
-  <programme start="20210716000000 +0200" stop="20210716010000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">ΜΟΤΟΣΥΚΛΕΤΕΣ</title>
-    <desc>Μηχανοκίνητα σπορ</desc>
-  </programme>
-  <programme start="20210716010000 +0200" stop="20210716023000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας: Extra</title>
-    <desc>Extra</desc>
-  </programme>
-  <programme start="20210716023000 +0200" stop="20210716040000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">ΜΟΤΟΣΥΚΛΕΤΕΣ</title>
-    <desc>Μηχανοκίνητα σπορ</desc>
-  </programme>
-  <programme start="20210716040000 +0200" stop="20210716063000 +0200" channel="nova.eurosport1.gr">
-    <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας: Extra</title>
-    <desc>Extra</desc>
-  </programme>
   <programme start="20210716063000 +0200" stop="20210716083000 +0200" channel="nova.eurosport1.gr">
     <title lang="el">ΑΓΩΝΕΣ ΑΥΤΟΚΙΝΗΤΩΝ</title>
     <desc>Μηχανοκίνητα σπορ</desc>
@@ -525,117 +469,101 @@
     <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
     <desc>Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20210722050000 +0200" channel="nova.eurosport1.gr">
+  <programme start="20210722050000 +0200" stop="20210722060000 +0200" channel="nova.eurosport1.gr">
     <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
     <desc>Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20210715060000 +0200" stop="20210715070000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Παγκόσμιο Κύπελλο Αυτ/των Τουρισμού</title>
-    <desc>Μηχανοκίνητα σπορ</desc>
+  <programme start="20210722060000 +0200" stop="20210722070000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20210715070000 +0200" stop="20210715080000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">FORMULA E</title>
-    <desc>Μηχανοκίνητα σπορ</desc>
+  <programme start="20210722070000 +0200" stop="20210722080000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20210715080000 +0200" stop="20210715093000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
-    <desc>Ελβετία</desc>
-  </programme>
-  <programme start="20210715093000 +0200" stop="20210715100500 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
-    <desc>Watts Top 10</desc>
-  </programme>
-  <programme start="20210715100500 +0200" stop="20210715110000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΕΛΕΥΘΕΡΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
-    <desc>Ελβετία</desc>
-  </programme>
-  <programme start="20210715110000 +0200" stop="20210715120000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
-    <desc>Ιταλία</desc>
-  </programme>
-  <programme start="20210715120000 +0200" stop="20210715130000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Αυστρία</title>
-    <desc>Αυστρία</desc>
-  </programme>
-  <programme start="20210715130000 +0200" stop="20210715143000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
-    <desc>Ελβετία</desc>
-  </programme>
-  <programme start="20210715143000 +0200" stop="20210715153000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
-    <desc>Διάφορα σπορ</desc>
-  </programme>
-  <programme start="20210715153000 +0200" stop="20210715163000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
-    <desc>Διάφορα σπορ</desc>
-  </programme>
-  <programme start="20210715163000 +0200" stop="20210715170000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
-    <desc>Watts Top 10</desc>
-  </programme>
-  <programme start="20210715170000 +0200" stop="20210715180000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΕΛΕΥΘΕΡΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
-    <desc>Ελβετία</desc>
-  </programme>
-  <programme start="20210715180000 +0200" stop="20210715190000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
-    <desc>Ιταλία</desc>
-  </programme>
-  <programme start="20210715190000 +0200" stop="20210715203000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Σνούκερ: Home Nations Series: Σκοτία</title>
-    <desc>Σκοτία</desc>
-  </programme>
-  <programme start="20210715203000 +0200" stop="20210715212500 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Τσεχία</title>
-    <desc>Τσεχία</desc>
-  </programme>
-  <programme start="20210715212500 +0200" stop="20210715213000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΝΕΑ</title>
+  <programme start="20210722080000 +0200" stop="20210722090000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
     <desc>Ειδήσεις</desc>
   </programme>
-  <programme start="20210715213000 +0200" stop="20210715223000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
-    <desc>Διάφορα σπορ</desc>
-  </programme>
-  <programme start="20210715223000 +0200" stop="20210715230000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
-    <desc>Watts Top 10</desc>
-  </programme>
-  <programme start="20210715230000 +0200" stop="20210716000000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Τσεχία</title>
-    <desc>Τσεχία</desc>
-  </programme>
-  <programme start="20210716000000 +0200" stop="20210716005500 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
-    <desc>Ιταλία</desc>
-  </programme>
-  <programme start="20210716005500 +0200" stop="20210716010000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΝΕΑ</title>
+  <programme start="20210722090000 +0200" stop="20210722093000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
     <desc>Ειδήσεις</desc>
   </programme>
-  <programme start="20210716010000 +0200" stop="20210716022500 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Σνούκερ: Home Nations Series: Σκοτία</title>
-    <desc>Σκοτία</desc>
-  </programme>
-  <programme start="20210716022500 +0200" stop="20210716023000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΝΕΑ</title>
+  <programme start="20210722093000 +0200" stop="20210722100000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
     <desc>Ειδήσεις</desc>
   </programme>
-  <programme start="20210716023000 +0200" stop="20210716033000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Τσεχία</title>
-    <desc>Τσεχία</desc>
+  <programme start="20210722100000 +0200" stop="20210722110000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20210716033000 +0200" stop="20210716040000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
-    <desc>Watts Top 10</desc>
+  <programme start="20210722110000 +0200" stop="20210722130000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
   </programme>
-  <programme start="20210716040000 +0200" stop="20210716050000 +0200" channel="nova.eurosport2.gr">
+  <programme start="20210722130000 +0200" stop="20210722143000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722143000 +0200" stop="20210722163000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722163000 +0200" stop="20210722173000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722173000 +0200" stop="20210722183000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722183000 +0200" stop="20210722190000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
+    <desc>Ειδήσεις</desc>
+  </programme>
+  <programme start="20210722190000 +0200" stop="20210722200000 +0200" channel="nova.eurosport1.gr">
     <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
-    <desc>Διάφορα σπορ</desc>
+    <desc>Hall of Fame Rio 2016</desc>
   </programme>
-  <programme start="20210716050000 +0200" stop="20210716063000 +0200" channel="nova.eurosport2.gr">
-    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
-    <desc>Ιταλία</desc>
+  <programme start="20210722200000 +0200" stop="20210722210000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722210000 +0200" stop="20210722220000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722220000 +0200" stop="20210722230000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210722230000 +0200" stop="20210723000000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210723000000 +0200" stop="20210723003000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
+    <desc>Ειδήσεις</desc>
+  </programme>
+  <programme start="20210723003000 +0200" stop="20210723010000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
+    <desc>Ειδήσεις</desc>
+  </programme>
+  <programme start="20210723010000 +0200" stop="20210723013000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">Ολυμπιακοί Αγώνες: Ολυμπιακά Νέα</title>
+    <desc>Ειδήσεις</desc>
+  </programme>
+  <programme start="20210723013000 +0200" stop="20210723023000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΠΟΔΟΣΦΑΙΡΟ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Ποδόσφαιρο</desc>
+  </programme>
+  <programme start="20210723023000 +0200" stop="20210723040000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΚΩΠΗΛΑΣΙΑ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Υδάτινα σπορ</desc>
+  </programme>
+  <programme start="20210723040000 +0200" channel="nova.eurosport1.gr">
+    <title lang="el">ΚΩΠΗΛΑΣΙΑ: ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Υδάτινα σπορ</desc>
   </programme>
   <programme start="20210716063000 +0200" stop="20210716090000 +0200" channel="nova.eurosport2.gr">
     <title lang="el">ΠΟΔΗΛΑΣΙΑ: Ο ΓΥΡΟΣ ΤΗΣ ΓΑΛΛΙΑΣ</title>
@@ -1049,137 +977,117 @@
     <title lang="el">ΕΛΕΥΘΕΡΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
     <desc>Ελβετία</desc>
   </programme>
-  <programme start="20210722050000 +0200" channel="nova.eurosport2.gr">
+  <programme start="20210722050000 +0200" stop="20210722060000 +0200" channel="nova.eurosport2.gr">
     <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Αυστρία</title>
     <desc>Αυστρία</desc>
   </programme>
-  <programme start="20210715060000 +0200" stop="20210715063000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">FULL CIRCLE</title>
-    <desc>Βίντεο</desc>
+  <programme start="20210722060000 +0200" stop="20210722070000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Παγκόσμιο Κύπελλο Αυτ/των Τουρισμού</title>
+    <desc>Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20210715063000 +0200" stop="20210715070000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">FULL CIRCLE</title>
-    <desc>Ολυμπιακοί Αγώνες</desc>
+  <programme start="20210722070000 +0200" stop="20210722080000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">FORMULA E</title>
+    <desc>Μηχανοκίνητα σπορ</desc>
   </programme>
-  <programme start="20210715070000 +0200" stop="20210715080000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΣΤΑ ΑΔΥΤΑ ΤΟΥ DARK FEST</title>
-    <desc>Αθλητικό ριάλιτι</desc>
+  <programme start="20210722080000 +0200" stop="20210722093000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
+    <desc>Ελβετία</desc>
   </programme>
-  <programme start="20210715080000 +0200" stop="20210715090000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΚΥΝΗΓΗΜΕΝΟΙ</title>
-    <desc>Ισημερινός - Ταμπακούντο</desc>
+  <programme start="20210722093000 +0200" stop="20210722100500 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
+    <desc>Watts Top 10</desc>
   </programme>
-  <programme start="20210715090000 +0200" stop="20210715100000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
-    <desc>Μνήμη</desc>
+  <programme start="20210722100500 +0200" stop="20210722110000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΕΛΕΥΘΕΡΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
+    <desc>Ελβετία</desc>
   </programme>
-  <programme start="20210715100000 +0200" stop="20210715103000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
-    <desc>Επεισόδιο 2</desc>
+  <programme start="20210722110000 +0200" stop="20210722120000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
+    <desc>Ιταλία</desc>
   </programme>
-  <programme start="20210715103000 +0200" stop="20210715110000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
-    <desc>Επεισόδιο 3</desc>
+  <programme start="20210722120000 +0200" stop="20210722130000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Αυστρία</title>
+    <desc>Αυστρία</desc>
   </programme>
-  <programme start="20210715110000 +0200" stop="20210715120000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΣΕΡΦ ΑΠΟ ΓΕΝΙΑ ΣΕ ΓΕΝΙΑ</title>
-    <desc>Αθλητικό ντοκιμαντέρ</desc>
+  <programme start="20210722130000 +0200" stop="20210722143000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΑΛΜΑ ΜΕ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
+    <desc>Ελβετία</desc>
   </programme>
-  <programme start="20210715120000 +0200" stop="20210715130000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">GRAVEYARD CARZ 7</title>
-    <desc>Ωρα για Barracuda</desc>
+  <programme start="20210722143000 +0200" stop="20210722153000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Διάφορα σπορ</desc>
   </programme>
-  <programme start="20210715130000 +0200" stop="20210715140000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">GRAVEYARD CARZ 7</title>
-    <desc>Μετακόμιση</desc>
+  <programme start="20210722153000 +0200" stop="20210722163000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Διάφορα σπορ</desc>
   </programme>
-  <programme start="20210715140000 +0200" stop="20210715141500 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΔΥΝΑΜΗ ΚΑΙ ΑΘΛΗΤΙΣΜΟΣ</title>
-    <desc>Νερό -  Chris Jewell</desc>
+  <programme start="20210722163000 +0200" stop="20210722170000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
+    <desc>Watts Top 10</desc>
   </programme>
-  <programme start="20210715141500 +0200" stop="20210715143000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΔΥΝΑΜΗ ΚΑΙ ΑΘΛΗΤΙΣΜΟΣ</title>
-    <desc>Νερό -  Tyler Bradt</desc>
+  <programme start="20210722170000 +0200" stop="20210722180000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΕΛΕΥΘΕΡΟ ΣΚΙ: ΠΑΓΚΟΣΜΙΟ ΚΥΠΕΛΛΟ</title>
+    <desc>Ελβετία</desc>
   </programme>
-  <programme start="20210715143000 +0200" stop="20210715150000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">Στα κύματα του Thundercloud Reef</title>
-    <desc>Επεισόδιο 3</desc>
+  <programme start="20210722180000 +0200" stop="20210722190000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
+    <desc>Ιταλία</desc>
   </programme>
-  <programme start="20210715150000 +0200" stop="20210715160000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΕΠΙΚΕΣ ΕΞΕΡΕΥΝΗΣΕΙΣ</title>
-    <desc>Νορβηγία / Κροατία</desc>
+  <programme start="20210722190000 +0200" stop="20210722203000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Σνούκερ: Home Nations Series: Σκοτία</title>
+    <desc>Σκοτία</desc>
   </programme>
-  <programme start="20210715160000 +0200" stop="20210715170000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
-    <desc>Μνήμη</desc>
+  <programme start="20210722203000 +0200" stop="20210722212500 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Τσεχία</title>
+    <desc>Τσεχία</desc>
   </programme>
-  <programme start="20210715170000 +0200" stop="20210715180000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
-    <desc>Αναγνώριση προσώπου</desc>
+  <programme start="20210722212500 +0200" stop="20210722213000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΝΕΑ</title>
+    <desc>Ειδήσεις</desc>
   </programme>
-  <programme start="20210715180000 +0200" stop="20210715183000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΠΑΡΚΟΥΡ ΣΕ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
-    <desc>Λισαβόνα</desc>
+  <programme start="20210722213000 +0200" stop="20210722223000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Διάφορα σπορ</desc>
   </programme>
-  <programme start="20210715183000 +0200" stop="20210715190000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΠΑΡΚΟΥΡ ΣΕ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
-    <desc>Δελχί</desc>
+  <programme start="20210722223000 +0200" stop="20210722230000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
+    <desc>Watts Top 10</desc>
   </programme>
-  <programme start="20210715190000 +0200" stop="20210715193000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΠΑΛΕΥΟΝΤΑΣ ΜΕ ΤΑ ΚΥΜΑΤΑ</title>
-    <desc>Ναζαρέ</desc>
+  <programme start="20210722230000 +0200" stop="20210723000000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Τσεχία</title>
+    <desc>Τσεχία</desc>
   </programme>
-  <programme start="20210715193000 +0200" stop="20210715200000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΠΑΛΕΥΟΝΤΑΣ ΜΕ ΤΑ ΚΥΜΑΤΑ</title>
-    <desc>Τα κύματα στο Ναζαρέ</desc>
+  <programme start="20210723000000 +0200" stop="20210723005500 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
+    <desc>Ιταλία</desc>
   </programme>
-  <programme start="20210715200000 +0200" stop="20210715210000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">GRAVEYARD CARZ 7</title>
-    <desc>Μετακόμιση</desc>
+  <programme start="20210723005500 +0200" stop="20210723010000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΝΕΑ</title>
+    <desc>Ειδήσεις</desc>
   </programme>
-  <programme start="20210715210000 +0200" stop="20210715220000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">GRAVEYARD CARZ 7</title>
-    <desc>Μυστική αποστολή</desc>
+  <programme start="20210723010000 +0200" stop="20210723022500 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Σνούκερ: Home Nations Series: Σκοτία</title>
+    <desc>Σκοτία</desc>
   </programme>
-  <programme start="20210715220000 +0200" stop="20210715223000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
-    <desc>Επεισόδιο 3</desc>
+  <programme start="20210723022500 +0200" stop="20210723023000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΝΕΑ</title>
+    <desc>Ειδήσεις</desc>
   </programme>
-  <programme start="20210715223000 +0200" stop="20210715230000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
-    <desc>Επεισόδιο 4</desc>
+  <programme start="20210723023000 +0200" stop="20210723033000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Δίαθλο: Παγκόσμιο Κύπελλο: Τσεχία</title>
+    <desc>Τσεχία</desc>
   </programme>
-  <programme start="20210715230000 +0200" stop="20210716000000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΣΥΓΧΡΟΝΟΙ ΕΞΕΡΕΥΝΗΤΕΣ</title>
-    <desc>Ο παράδεισος μας περιμένει</desc>
+  <programme start="20210723033000 +0200" stop="20210723040000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΑ ΤΑ ΣΠΟΡ: WATTS TOP 10</title>
+    <desc>Watts Top 10</desc>
   </programme>
-  <programme start="20210716000000 +0200" stop="20210716010000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
-    <desc>Μνήμη</desc>
+  <programme start="20210723040000 +0200" stop="20210723050000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">ΟΛΥΜΠΙΑΚΟΙ ΑΓΩΝΕΣ</title>
+    <desc>Διάφορα σπορ</desc>
   </programme>
-  <programme start="20210716010000 +0200" stop="20210716020000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
-    <desc>Αναγνώριση προσώπου</desc>
-  </programme>
-  <programme start="20210716020000 +0200" stop="20210716023000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
-    <desc>Επεισόδιο 3</desc>
-  </programme>
-  <programme start="20210716023000 +0200" stop="20210716030000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
-    <desc>Επεισόδιο 4</desc>
-  </programme>
-  <programme start="20210716030000 +0200" stop="20210716040000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΣΥΓΧΡΟΝΟΙ ΕΞΕΡΕΥΝΗΤΕΣ</title>
-    <desc>Ο παράδεισος μας περιμένει</desc>
-  </programme>
-  <programme start="20210716040000 +0200" stop="20210716050000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">GRAVEYARD CARZ 7</title>
-    <desc>Μετακόμιση</desc>
-  </programme>
-  <programme start="20210716050000 +0200" stop="20210716060000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">GRAVEYARD CARZ 7</title>
-    <desc>Μυστική αποστολή</desc>
+  <programme start="20210723050000 +0200" channel="nova.eurosport2.gr">
+    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Ιταλία</title>
+    <desc>Ιταλία</desc>
   </programme>
   <programme start="20210716060000 +0200" stop="20210716061500 +0200" channel="nova.insighttv.gr">
     <title lang="el">ΔΥΝΑΜΗ ΚΑΙ ΑΘΛΗΤΙΣΜΟΣ</title>
@@ -1273,13 +1181,17 @@
     <title lang="el">GRAVEYARD CARZ 7</title>
     <desc>Εργασίες της τελευταίας στιγμής</desc>
   </programme>
-  <programme start="20210716220000 +0200" stop="20210716233000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">TIMELESS FESTIVAL BY MONTREUX</title>
-    <desc>InBeat Live: Sam Himself</desc>
+  <programme start="20210716220000 +0200" stop="20210716230000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΕΝΑΣ ΠΑΡΑΞΕΝΟΣ ΚΟΣΜΟΣ</title>
+    <desc>Τίγρη της Τασμανίας</desc>
   </programme>
-  <programme start="20210716233000 +0200" stop="20210717000000 +0200" channel="nova.insighttv.gr">
-    <title lang="el">ΜΙΑ ΑΠΛΗ ΔΙΑΔΡΟΜΗ</title>
-    <desc>Γιοχάνεσμπουργκ</desc>
+  <programme start="20210716230000 +0200" stop="20210716234500 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΟΙ ΔΑΣΚΑΛΟΙ ΤΩΝ ΠΟΛΕΜΙΚΩΝ ΤΕΧΝΩΝ</title>
+    <desc>Σύγχρονη εποχή</desc>
+  </programme>
+  <programme start="20210716234500 +0200" stop="20210717000000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">INSIGHT TV DNA</title>
+    <desc>Ψυχαγωγική εκπομπή</desc>
   </programme>
   <programme start="20210717000000 +0200" stop="20210717010000 +0200" channel="nova.insighttv.gr">
     <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
@@ -1905,173 +1817,137 @@
     <title lang="el">GRAVEYARD CARZ 7</title>
     <desc>Phantom 'Cuda: Η Αποκάλυψη</desc>
   </programme>
-  <programme start="20210722050000 +0200" channel="nova.insighttv.gr">
+  <programme start="20210722050000 +0200" stop="20210722060000 +0200" channel="nova.insighttv.gr">
     <title lang="el">GRAVEYARD CARZ 7</title>
     <desc>Πυρετός εργασιών</desc>
   </programme>
-  <programme start="20210715060000 +0200" stop="20210715070000 +0200" channel="nova.myzen.gr">
-    <title lang="el">SPIRITUAL SPORTS</title>
-    <desc>Σώμα και πνεύμα</desc>
+  <programme start="20210722060000 +0200" stop="20210722063000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">FULL CIRCLE</title>
+    <desc>Ολυμπιακοί Αγώνες</desc>
   </programme>
-  <programme start="20210715070000 +0200" stop="20210715083000 +0200" channel="nova.myzen.gr">
-    <title lang="el">YOGA</title>
-    <desc>Σώμα και πνεύμα</desc>
+  <programme start="20210722063000 +0200" stop="20210722070000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">FULL CIRCLE</title>
+    <desc>Η νέα γενιά</desc>
   </programme>
-  <programme start="20210715083000 +0200" stop="20210715083500 +0200" channel="nova.myzen.gr">
-    <title lang="el">MOUNTAIN YOGA</title>
-    <desc>Οι τρεις πολεμιστές</desc>
+  <programme start="20210722070000 +0200" stop="20210722080000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">THE FLYING KESTREL</title>
+    <desc>Ημερολόγια Ανακαίνισης</desc>
   </programme>
-  <programme start="20210715083500 +0200" stop="20210715084500 +0200" channel="nova.myzen.gr">
-    <title lang="el">MOUNTAIN YOGA</title>
-    <desc>Ροή ενέργειας</desc>
+  <programme start="20210722080000 +0200" stop="20210722090000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
+    <desc>Η αίσθηση του χρόνου</desc>
   </programme>
-  <programme start="20210715084500 +0200" stop="20210715085000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MOUNTAIN YOGA</title>
-    <desc>Γιόγκα και συναίσθηση</desc>
+  <programme start="20210722090000 +0200" stop="20210722100000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
+    <desc>Οι αισθήσεις</desc>
   </programme>
-  <programme start="20210715085000 +0200" stop="20210715092000 +0200" channel="nova.myzen.gr">
-    <title lang="el">Get back in shape with a Miss France</title>
-    <desc>Αφιέρωμα στους κοιλιακούς</desc>
+  <programme start="20210722100000 +0200" stop="20210722103000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
+    <desc>Επεισόδιο 3</desc>
   </programme>
-  <programme start="20210715092000 +0200" stop="20210715101000 +0200" channel="nova.myzen.gr">
-    <title lang="el">FRESH YOGA 2</title>
-    <desc>Ελευθερία μέσα μας</desc>
+  <programme start="20210722103000 +0200" stop="20210722110000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
+    <desc>Επεισόδιο 4</desc>
   </programme>
-  <programme start="20210715101000 +0200" stop="20210715102000 +0200" channel="nova.myzen.gr">
-    <title lang="el">PILATES</title>
-    <desc>Σώμα και πνεύμα</desc>
+  <programme start="20210722110000 +0200" stop="20210722121500 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΣΤΑ 'ΣΑΓΟΝΙΑ' ΤΟΥ ΜΑΟΥΙ</title>
+    <desc>Αθλητικό ντοκιμαντέρ</desc>
   </programme>
-  <programme start="20210715102000 +0200" stop="20210715104500 +0200" channel="nova.myzen.gr">
-    <title lang="el">THROUGH YOUR EYES</title>
-    <desc>Νορβηγία: Σπίτσμπεργκεν</desc>
+  <programme start="20210722121500 +0200" stop="20210722130000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">INSIGHT TV DNA</title>
+    <desc>Ψυχαγωγική εκπομπή</desc>
   </programme>
-  <programme start="20210715104500 +0200" stop="20210715111500 +0200" channel="nova.myzen.gr">
-    <title lang="el">THROUGH YOUR EYES</title>
-    <desc>Μεξικό: Τσιάπας</desc>
+  <programme start="20210722130000 +0200" stop="20210722140000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">GRAVEYARD CARZ 7</title>
+    <desc>Πυρετός εργασιών</desc>
   </programme>
-  <programme start="20210715111500 +0200" stop="20210715114000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MY DAY DUBAI</title>
-    <desc>Omnia Gourmet</desc>
+  <programme start="20210722140000 +0200" stop="20210722141500 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΔΥΝΑΜΗ ΚΑΙ ΑΘΛΗΤΙΣΜΟΣ</title>
+    <desc>Νερό -  Chris Anyzeski</desc>
   </programme>
-  <programme start="20210715114000 +0200" stop="20210715121000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MY ZEN TRENDY</title>
-    <desc>Love Yoga</desc>
+  <programme start="20210722141500 +0200" stop="20210722143000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΔΥΝΑΜΗ ΚΑΙ ΑΘΛΗΤΙΣΜΟΣ</title>
+    <desc>Νερό - Ryan Stramrood</desc>
   </programme>
-  <programme start="20210715121000 +0200" stop="20210715123500 +0200" channel="nova.myzen.gr">
-    <title lang="el">OF HOUSES AND IDEAS</title>
-    <desc>Anne-Sophie</desc>
+  <programme start="20210722143000 +0200" stop="20210722150000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">Στα κύματα του Thundercloud Reef</title>
+    <desc>Επεισόδιο 4</desc>
   </programme>
-  <programme start="20210715123500 +0200" stop="20210715130500 +0200" channel="nova.myzen.gr">
-    <title lang="el">OF HOUSES AND IDEAS</title>
-    <desc>Ludivine</desc>
+  <programme start="20210722150000 +0200" stop="20210722160000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΕΠΙΚΕΣ ΕΞΕΡΕΥΝΗΣΕΙΣ</title>
+    <desc>Ναμίμπια / Αλβανία</desc>
   </programme>
-  <programme start="20210715130500 +0200" stop="20210715133000 +0200" channel="nova.myzen.gr">
-    <title lang="el">PARISIAN STYLE</title>
-    <desc>Vanessa (Λονδίνο)</desc>
+  <programme start="20210722160000 +0200" stop="20210722170000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
+    <desc>Οι αισθήσεις</desc>
   </programme>
-  <programme start="20210715133000 +0200" stop="20210715140000 +0200" channel="nova.myzen.gr">
-    <title lang="el">PARISIAN STYLE</title>
-    <desc>Dorothee</desc>
+  <programme start="20210722170000 +0200" stop="20210722180000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
+    <desc>Πόνος και φόβος</desc>
   </programme>
-  <programme start="20210715140000 +0200" stop="20210715142500 +0200" channel="nova.myzen.gr">
-    <title lang="el">FOOD NANNY 4</title>
-    <desc>Aloha</desc>
+  <programme start="20210722180000 +0200" stop="20210722183000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΠΑΡΚΟΥΡ ΣΕ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
+    <desc>Μεξικό</desc>
   </programme>
-  <programme start="20210715142500 +0200" stop="20210715151000 +0200" channel="nova.myzen.gr">
-    <title lang="el">YOGI CAMERON 2</title>
-    <desc>Λιν - Παχυσαρκία</desc>
+  <programme start="20210722183000 +0200" stop="20210722190000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΠΑΡΚΟΥΡ ΣΕ ΟΛΟ ΤΟΝ ΚΟΣΜΟ</title>
+    <desc>Γκραν Κανάρια</desc>
   </programme>
-  <programme start="20210715151000 +0200" stop="20210715153000 +0200" channel="nova.myzen.gr">
-    <title lang="el">DESTINATION HAPPINESS</title>
-    <desc>Γενέθλια με μία Harley</desc>
+  <programme start="20210722190000 +0200" stop="20210722193000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΠΑΛΕΥΟΝΤΑΣ ΜΕ ΤΑ ΚΥΜΑΤΑ</title>
+    <desc>Σέρφινγκ στο Ορεγκον</desc>
   </programme>
-  <programme start="20210715153000 +0200" stop="20210715155500 +0200" channel="nova.myzen.gr">
-    <title lang="el">THROUGH YOUR EYES</title>
-    <desc>Μεξικό: Κουετσάλαν</desc>
+  <programme start="20210722193000 +0200" stop="20210722200000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΠΑΛΕΥΟΝΤΑΣ ΜΕ ΤΑ ΚΥΜΑΤΑ</title>
+    <desc>Nelscott Reef</desc>
   </programme>
-  <programme start="20210715155500 +0200" stop="20210715162000 +0200" channel="nova.myzen.gr">
-    <title lang="el">THROUGH YOUR EYES</title>
-    <desc>Κεμπέκ</desc>
+  <programme start="20210722200000 +0200" stop="20210722210000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">GRAVEYARD CARZ 7</title>
+    <desc>Πυρετός εργασιών</desc>
   </programme>
-  <programme start="20210715162000 +0200" stop="20210715172000 +0200" channel="nova.myzen.gr">
-    <title lang="el">TRAVELS AROUND THE WORLD</title>
-    <desc>Αφιέρωμα</desc>
+  <programme start="20210722210000 +0200" stop="20210722220000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">GRAVEYARD CARZ 7</title>
+    <desc>Daytona εναντίον Hellcat</desc>
   </programme>
-  <programme start="20210715172000 +0200" stop="20210715172500 +0200" channel="nova.myzen.gr">
-    <title lang="el">MOUNTAIN YOGA</title>
-    <desc>Ισορροπία</desc>
+  <programme start="20210722220000 +0200" stop="20210722223000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
+    <desc>Επεισόδιο 4</desc>
   </programme>
-  <programme start="20210715172500 +0200" stop="20210715173500 +0200" channel="nova.myzen.gr">
-    <title lang="el">MOUNTAIN YOGA</title>
-    <desc>Διαλογισμός</desc>
+  <programme start="20210722223000 +0200" stop="20210722230000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
+    <desc>Επεισόδιο 5</desc>
   </programme>
-  <programme start="20210715173500 +0200" stop="20210715174000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MOUNTAIN YOGA</title>
-    <desc>Βουνό</desc>
+  <programme start="20210722230000 +0200" stop="20210723000000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΣΥΓΧΡΟΝΟΙ ΕΞΕΡΕΥΝΗΤΕΣ</title>
+    <desc>Στην παραλία</desc>
   </programme>
-  <programme start="20210715174000 +0200" stop="20210715180500 +0200" channel="nova.myzen.gr">
-    <title lang="el">YOGA</title>
-    <desc>Σώμα και πνεύμα</desc>
+  <programme start="20210723000000 +0200" stop="20210723010000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
+    <desc>Οι αισθήσεις</desc>
   </programme>
-  <programme start="20210715180500 +0200" stop="20210715183500 +0200" channel="nova.myzen.gr">
-    <title lang="el">FITNESS</title>
-    <desc>Σώμα και πνεύμα</desc>
+  <programme start="20210723010000 +0200" stop="20210723020000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΤΑ ΜΥΣΤΙΚΑ ΤΟΥ ΕΓΚΕΦΑΛΟΥ</title>
+    <desc>Πόνος και φόβος</desc>
   </programme>
-  <programme start="20210715183500 +0200" stop="20210715190000 +0200" channel="nova.myzen.gr">
-    <title lang="el">Get back in shape with a Miss France</title>
-    <desc>Τα βασικά</desc>
+  <programme start="20210723020000 +0200" stop="20210723023000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
+    <desc>Επεισόδιο 4</desc>
   </programme>
-  <programme start="20210715190000 +0200" stop="20210715193000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MY DAY DUBAI</title>
-    <desc>Nikki Beach</desc>
+  <programme start="20210723023000 +0200" stop="20210723030000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">G2: Making the Squad - FIFA 21 Edition</title>
+    <desc>Επεισόδιο 5</desc>
   </programme>
-  <programme start="20210715193000 +0200" stop="20210715200000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MY ZEN TRENDY</title>
-    <desc>Malibu Ranch</desc>
+  <programme start="20210723030000 +0200" stop="20210723040000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">ΣΥΓΧΡΟΝΟΙ ΕΞΕΡΕΥΝΗΤΕΣ</title>
+    <desc>Στην παραλία</desc>
   </programme>
-  <programme start="20210715200000 +0200" stop="20210715210000 +0200" channel="nova.myzen.gr">
-    <title lang="el">TRAVELS AROUND THE WORLD</title>
-    <desc>Αφιέρωμα</desc>
+  <programme start="20210723040000 +0200" stop="20210723050000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">GRAVEYARD CARZ 7</title>
+    <desc>Πυρετός εργασιών</desc>
   </programme>
-  <programme start="20210715210000 +0200" stop="20210715213000 +0200" channel="nova.myzen.gr">
-    <title lang="el">EXPLORE TV</title>
-    <desc>Ταϊλάνδη - Anzac</desc>
-  </programme>
-  <programme start="20210715213000 +0200" stop="20210715220000 +0200" channel="nova.myzen.gr">
-    <title lang="el">THROUGH YOUR EYES</title>
-    <desc>Νεπάλ: Κατμαντού</desc>
-  </programme>
-  <programme start="20210715220000 +0200" stop="20210715230000 +0200" channel="nova.myzen.gr">
-    <title lang="el">TRAVELS AROUND THE WORLD</title>
-    <desc>Αφιέρωμα</desc>
-  </programme>
-  <programme start="20210715230000 +0200" stop="20210715233000 +0200" channel="nova.myzen.gr">
-    <title lang="el">OF HOUSES AND IDEAS</title>
-    <desc>Louise</desc>
-  </programme>
-  <programme start="20210715233000 +0200" stop="20210716000000 +0200" channel="nova.myzen.gr">
-    <title lang="el">PARISIAN STYLE</title>
-    <desc>Aurelie, Ναντ</desc>
-  </programme>
-  <programme start="20210716000000 +0200" stop="20210716003000 +0200" channel="nova.myzen.gr">
-    <title lang="el">MASSAGES</title>
-    <desc>Σώμα και πνεύμα</desc>
-  </programme>
-  <programme start="20210716003000 +0200" stop="20210716010000 +0200" channel="nova.myzen.gr">
-    <title lang="el">YOGA</title>
-    <desc>Σώμα και πνεύμα</desc>
-  </programme>
-  <programme start="20210716010000 +0200" stop="20210716020000 +0200" channel="nova.myzen.gr">
-    <title lang="el">SPIRITUAL SPORTS</title>
-    <desc>Σώμα και πνεύμα</desc>
-  </programme>
-  <programme start="20210716020000 +0200" stop="20210716040000 +0200" channel="nova.myzen.gr">
-    <title lang="el">YOGA</title>
-    <desc>Σώμα και πνεύμα</desc>
-  </programme>
-  <programme start="20210716040000 +0200" stop="20210716060000 +0200" channel="nova.myzen.gr">
-    <title lang="el">BEAUTIFUL LANDSCAPES</title>
-    <desc>Αποδράσεις</desc>
+  <programme start="20210723050000 +0200" channel="nova.insighttv.gr">
+    <title lang="el">GRAVEYARD CARZ 7</title>
+    <desc>Daytona εναντίον Hellcat</desc>
   </programme>
   <programme start="20210716060000 +0200" stop="20210716070000 +0200" channel="nova.myzen.gr">
     <title lang="el">SPIRITUAL SPORTS</title>
@@ -3077,65 +2953,173 @@
     <title lang="el">YOGA</title>
     <desc>Σώμα και πνεύμα</desc>
   </programme>
-  <programme start="20210722040000 +0200" channel="nova.myzen.gr">
+  <programme start="20210722040000 +0200" stop="20210722060000 +0200" channel="nova.myzen.gr">
     <title lang="el">BEAUTIFUL LANDSCAPES</title>
     <desc>Αποδράσεις</desc>
   </programme>
-  <programme start="20210715060000 +0200" stop="20210715080000 +0200" channel="nova.one.gr">
-    <title lang="el">ONE CHANNEL</title>
-    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  <programme start="20210722060000 +0200" stop="20210722070000 +0200" channel="nova.myzen.gr">
+    <title lang="el">SPIRITUAL SPORTS</title>
+    <desc>Σώμα και πνεύμα</desc>
   </programme>
-  <programme start="20210715080000 +0200" stop="20210715083000 +0200" channel="nova.one.gr">
-    <title lang="el">VITA</title>
-    <desc>Μαγκαζίνο (E)</desc>
+  <programme start="20210722070000 +0200" stop="20210722083000 +0200" channel="nova.myzen.gr">
+    <title lang="el">YOGA</title>
+    <desc>Σώμα και πνεύμα</desc>
   </programme>
-  <programme start="20210715083000 +0200" stop="20210715090000 +0200" channel="nova.one.gr">
-    <title lang="el">VITA</title>
-    <desc>Μαγκαζίνο (E)</desc>
+  <programme start="20210722083000 +0200" stop="20210722083500 +0200" channel="nova.myzen.gr">
+    <title lang="el">MOUNTAIN YOGA</title>
+    <desc>Στρες</desc>
   </programme>
-  <programme start="20210715090000 +0200" stop="20210715093000 +0200" channel="nova.one.gr">
-    <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
-    <desc>Εκπομπή γυμναστικής (E)</desc>
+  <programme start="20210722083500 +0200" stop="20210722084500 +0200" channel="nova.myzen.gr">
+    <title lang="el">MOUNTAIN YOGA</title>
+    <desc>Χαιρετισμός στον ήλιο</desc>
   </programme>
-  <programme start="20210715093000 +0200" stop="20210715100000 +0200" channel="nova.one.gr">
-    <title lang="el">ΒΗΜΑGAZINO</title>
-    <desc>Μαγκαζίνο (E)</desc>
+  <programme start="20210722084500 +0200" stop="20210722085000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MOUNTAIN YOGA</title>
+    <desc>Ο δεσμός μας με τη φύση</desc>
   </programme>
-  <programme start="20210715100000 +0200" stop="20210715103000 +0200" channel="nova.one.gr">
-    <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
-    <desc>Πολιτισμός (Ε)</desc>
+  <programme start="20210722085000 +0200" stop="20210722092000 +0200" channel="nova.myzen.gr">
+    <title lang="el">Get back in shape with a Miss France</title>
+    <desc>Προπόνηση σε στάδια</desc>
   </programme>
-  <programme start="20210715103000 +0200" stop="20210715170000 +0200" channel="nova.one.gr">
-    <title lang="el">ONE CHANNEL</title>
-    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  <programme start="20210722092000 +0200" stop="20210722101000 +0200" channel="nova.myzen.gr">
+    <title lang="el">FRESH YOGA 2</title>
+    <desc>Χρόνος για εσένα</desc>
   </programme>
-  <programme start="20210715170000 +0200" stop="20210715173000 +0200" channel="nova.one.gr">
-    <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
-    <desc>Εκπομπή γυμναστικής (E)</desc>
+  <programme start="20210722101000 +0200" stop="20210722102000 +0200" channel="nova.myzen.gr">
+    <title lang="el">PILATES</title>
+    <desc>Σώμα και πνεύμα</desc>
   </programme>
-  <programme start="20210715173000 +0200" stop="20210715180000 +0200" channel="nova.one.gr">
-    <title lang="el">VITA</title>
-    <desc>Μαγκαζίνο (E)</desc>
+  <programme start="20210722102000 +0200" stop="20210722104500 +0200" channel="nova.myzen.gr">
+    <title lang="el">THROUGH YOUR EYES</title>
+    <desc>Το Παρίσι των Συντρόφων</desc>
   </programme>
-  <programme start="20210715180000 +0200" stop="20210715183000 +0200" channel="nova.one.gr">
-    <title lang="el">VITA</title>
-    <desc>Μαγκαζίνο (E)</desc>
+  <programme start="20210722104500 +0200" stop="20210722111500 +0200" channel="nova.myzen.gr">
+    <title lang="el">THROUGH YOUR EYES</title>
+    <desc>Καμπότζη: Τόνλι Σαπ</desc>
   </programme>
-  <programme start="20210715183000 +0200" stop="20210715190000 +0200" channel="nova.one.gr">
-    <title lang="el">ΒΗΜΑGAZINO</title>
-    <desc>Μαγκαζίνο (E)</desc>
+  <programme start="20210722111500 +0200" stop="20210722114000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MY DAY DUBAI</title>
+    <desc>Le Royal Meridien</desc>
   </programme>
-  <programme start="20210715190000 +0200" stop="20210715193000 +0200" channel="nova.one.gr">
-    <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
-    <desc>Πολιτισμός (Ε)</desc>
+  <programme start="20210722114000 +0200" stop="20210722121000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MY ZEN TRENDY 2</title>
+    <desc>Πολεμικές τέχνες και διαλογισμός</desc>
   </programme>
-  <programme start="20210715193000 +0200" stop="20210715210000 +0200" channel="nova.one.gr">
-    <title lang="el">ONE CHANNEL</title>
-    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  <programme start="20210722121000 +0200" stop="20210722123500 +0200" channel="nova.myzen.gr">
+    <title lang="el">OF HOUSES AND IDEAS</title>
+    <desc>Charlotte</desc>
   </programme>
-  <programme start="20210715210000 +0200" stop="20210716060000 +0200" channel="nova.one.gr">
-    <title lang="el">ONE CHANNEL</title>
-    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  <programme start="20210722123500 +0200" stop="20210722130500 +0200" channel="nova.myzen.gr">
+    <title lang="el">OF HOUSES AND IDEAS</title>
+    <desc>Caroline</desc>
+  </programme>
+  <programme start="20210722130500 +0200" stop="20210722133000 +0200" channel="nova.myzen.gr">
+    <title lang="el">PARISIAN STYLE</title>
+    <desc>Silvia και Adriano, Μιλάνο</desc>
+  </programme>
+  <programme start="20210722133000 +0200" stop="20210722140000 +0200" channel="nova.myzen.gr">
+    <title lang="el">PARISIAN STYLE</title>
+    <desc>Siv-Tone και Nathan</desc>
+  </programme>
+  <programme start="20210722140000 +0200" stop="20210722142500 +0200" channel="nova.myzen.gr">
+    <title lang="el">FOOD NANNY</title>
+    <desc>Οικονομικά προβλήματα</desc>
+  </programme>
+  <programme start="20210722142500 +0200" stop="20210722151000 +0200" channel="nova.myzen.gr">
+    <title lang="el">YOGI CAMERON</title>
+    <desc>Φωτοφοβία - Νίκι</desc>
+  </programme>
+  <programme start="20210722151000 +0200" stop="20210722153000 +0200" channel="nova.myzen.gr">
+    <title lang="el">DESTINATION HAPPINESS</title>
+    <desc>Ενας σκύλος κάνει σερφ</desc>
+  </programme>
+  <programme start="20210722153000 +0200" stop="20210722155500 +0200" channel="nova.myzen.gr">
+    <title lang="el">THROUGH YOUR EYES</title>
+    <desc>Καμπότζη: Ανγκορ</desc>
+  </programme>
+  <programme start="20210722155500 +0200" stop="20210722162000 +0200" channel="nova.myzen.gr">
+    <title lang="el">THROUGH YOUR EYES</title>
+    <desc>Σενεγάλη: Σεν Λούις</desc>
+  </programme>
+  <programme start="20210722162000 +0200" stop="20210722172000 +0200" channel="nova.myzen.gr">
+    <title lang="el">TRAVELS AROUND THE WORLD</title>
+    <desc>Αφιέρωμα</desc>
+  </programme>
+  <programme start="20210722172000 +0200" stop="20210722172500 +0200" channel="nova.myzen.gr">
+    <title lang="el">MOUNTAIN YOGA</title>
+    <desc>The body space</desc>
+  </programme>
+  <programme start="20210722172500 +0200" stop="20210722173500 +0200" channel="nova.myzen.gr">
+    <title lang="el">MOUNTAIN YOGA</title>
+    <desc>Ευλυγισία</desc>
+  </programme>
+  <programme start="20210722173500 +0200" stop="20210722174000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MOUNTAIN YOGA</title>
+    <desc>Σταθεροποίηση</desc>
+  </programme>
+  <programme start="20210722174000 +0200" stop="20210722180500 +0200" channel="nova.myzen.gr">
+    <title lang="el">YOGA</title>
+    <desc>Σώμα και πνεύμα</desc>
+  </programme>
+  <programme start="20210722180500 +0200" stop="20210722183500 +0200" channel="nova.myzen.gr">
+    <title lang="el">FITNESS</title>
+    <desc>Σώμα και πνεύμα</desc>
+  </programme>
+  <programme start="20210722183500 +0200" stop="20210722190000 +0200" channel="nova.myzen.gr">
+    <title lang="el">Get back in shape with a Miss France</title>
+    <desc>Ασκήσεις με αλυσίδες</desc>
+  </programme>
+  <programme start="20210722190000 +0200" stop="20210722193000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MY DAY DUBAI</title>
+    <desc>The Banan Beach</desc>
+  </programme>
+  <programme start="20210722193000 +0200" stop="20210722200000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MY ZEN TRENDY 2</title>
+    <desc>Γιόγκα στο φαράγγι Τοπάνγκα</desc>
+  </programme>
+  <programme start="20210722200000 +0200" stop="20210722210000 +0200" channel="nova.myzen.gr">
+    <title lang="el">TRAVELS AROUND THE WORLD</title>
+    <desc>Αφιέρωμα</desc>
+  </programme>
+  <programme start="20210722210000 +0200" stop="20210722213000 +0200" channel="nova.myzen.gr">
+    <title lang="el">EXPLORE TV</title>
+    <desc>Μοζαμβίκη, Πολυτελές σαφάρι</desc>
+  </programme>
+  <programme start="20210722213000 +0200" stop="20210722220000 +0200" channel="nova.myzen.gr">
+    <title lang="el">THROUGH YOUR EYES</title>
+    <desc>Καμπότζη: Ανγκορ</desc>
+  </programme>
+  <programme start="20210722220000 +0200" stop="20210722230000 +0200" channel="nova.myzen.gr">
+    <title lang="el">TRAVELS AROUND THE WORLD</title>
+    <desc>Αφιέρωμα</desc>
+  </programme>
+  <programme start="20210722230000 +0200" stop="20210722233000 +0200" channel="nova.myzen.gr">
+    <title lang="el">OF HOUSES AND IDEAS</title>
+    <desc>Laurence</desc>
+  </programme>
+  <programme start="20210722233000 +0200" stop="20210723000000 +0200" channel="nova.myzen.gr">
+    <title lang="el">PARISIAN STYLE</title>
+    <desc>Benedicte</desc>
+  </programme>
+  <programme start="20210723000000 +0200" stop="20210723003000 +0200" channel="nova.myzen.gr">
+    <title lang="el">MASSAGES</title>
+    <desc>Σώμα και πνεύμα</desc>
+  </programme>
+  <programme start="20210723003000 +0200" stop="20210723010000 +0200" channel="nova.myzen.gr">
+    <title lang="el">YOGA</title>
+    <desc>Σώμα και πνεύμα</desc>
+  </programme>
+  <programme start="20210723010000 +0200" stop="20210723020000 +0200" channel="nova.myzen.gr">
+    <title lang="el">SPIRITUAL SPORTS</title>
+    <desc>Σώμα και πνεύμα</desc>
+  </programme>
+  <programme start="20210723020000 +0200" stop="20210723040000 +0200" channel="nova.myzen.gr">
+    <title lang="el">YOGA</title>
+    <desc>Σώμα και πνεύμα</desc>
+  </programme>
+  <programme start="20210723040000 +0200" channel="nova.myzen.gr">
+    <title lang="el">BEAUTIFUL LANDSCAPES</title>
+    <desc>Αποδράσεις</desc>
   </programme>
   <programme start="20210716060000 +0200" stop="20210716080000 +0200" channel="nova.one.gr">
     <title lang="el">ONE CHANNEL</title>
@@ -3469,9 +3453,65 @@
     <title lang="el">ONE CHANNEL</title>
     <desc>Ξένο πρόγραμμα (Ε)</desc>
   </programme>
-  <programme start="20210721210000 +0200" channel="nova.one.gr">
+  <programme start="20210721210000 +0200" stop="20210722060000 +0200" channel="nova.one.gr">
+    <title lang="el">ONE CHANNEL</title>
+    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  </programme>
+  <programme start="20210722060000 +0200" stop="20210722080000 +0200" channel="nova.one.gr">
+    <title lang="el">ONE CHANNEL</title>
+    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  </programme>
+  <programme start="20210722080000 +0200" stop="20210722083000 +0200" channel="nova.one.gr">
+    <title lang="el">VITA</title>
+    <desc>Μαγκαζίνο (E)</desc>
+  </programme>
+  <programme start="20210722083000 +0200" stop="20210722090000 +0200" channel="nova.one.gr">
+    <title lang="el">VITA</title>
+    <desc>Μαγκαζίνο (E)</desc>
+  </programme>
+  <programme start="20210722090000 +0200" stop="20210722093000 +0200" channel="nova.one.gr">
+    <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
+    <desc>Εκπομπή γυμναστικής (E)</desc>
+  </programme>
+  <programme start="20210722093000 +0200" stop="20210722100000 +0200" channel="nova.one.gr">
+    <title lang="el">ΒΗΜΑGAZINO</title>
+    <desc>Μαγκαζίνο (E)</desc>
+  </programme>
+  <programme start="20210722100000 +0200" stop="20210722103000 +0200" channel="nova.one.gr">
+    <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
+    <desc>Πολιτισμός (Ε)</desc>
+  </programme>
+  <programme start="20210722103000 +0200" stop="20210722170000 +0200" channel="nova.one.gr">
+    <title lang="el">ONE CHANNEL</title>
+    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  </programme>
+  <programme start="20210722170000 +0200" stop="20210722173000 +0200" channel="nova.one.gr">
+    <title lang="el">ΓΥΜΝΑΣΤΙΚΗ.... ΑΠΟ ΣΠΙΤΙ</title>
+    <desc>Εκπομπή γυμναστικής (E)</desc>
+  </programme>
+  <programme start="20210722173000 +0200" stop="20210722180000 +0200" channel="nova.one.gr">
+    <title lang="el">VITA</title>
+    <desc>Μαγκαζίνο (E)</desc>
+  </programme>
+  <programme start="20210722180000 +0200" stop="20210722183000 +0200" channel="nova.one.gr">
+    <title lang="el">VITA</title>
+    <desc>Μαγκαζίνο (E)</desc>
+  </programme>
+  <programme start="20210722183000 +0200" stop="20210722190000 +0200" channel="nova.one.gr">
+    <title lang="el">ΒΗΜΑGAZINO</title>
+    <desc>Μαγκαζίνο (E)</desc>
+  </programme>
+  <programme start="20210722190000 +0200" stop="20210722193000 +0200" channel="nova.one.gr">
+    <title lang="el">ΝΕΕΣ ΕΠΟΧΕΣ</title>
+    <desc>Πολιτισμός (Ε)</desc>
+  </programme>
+  <programme start="20210722193000 +0200" stop="20210722210000 +0200" channel="nova.one.gr">
+    <title lang="el">ONE CHANNEL</title>
+    <desc>Ξένο πρόγραμμα (Ε)</desc>
+  </programme>
+  <programme start="20210722210000 +0200" channel="nova.one.gr">
     <title lang="el">ONE CHANNEL</title>
     <desc>Ξένο πρόγραμμα (Ε)</desc>
   </programme>
 </tv>
-<!-- generated on Thu Jul 15 04:47:30 UTC 2021 -->
+<!-- generated on Fri Jul 16 04:47:34 UTC 2021 -->
